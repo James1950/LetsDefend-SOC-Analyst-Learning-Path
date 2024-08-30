@@ -30,5 +30,7 @@ Learning Path Skills:
 
 
 The Malware Analysis Lab and SOC Lab are hosted on a virtual machine on Virtual Box; I have used them to play around with malware and other things.
+
+FlareVM below
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/ffaee84c-385e-4ed8-a062-5a6638977de1">
 
